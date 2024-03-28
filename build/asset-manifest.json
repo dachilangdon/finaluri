@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6965c1b6.css",
+    "main.js": "/static/js/main.8d96fe7b.js",
+    "static/js/453.d9a8819d.chunk.js": "/static/js/453.d9a8819d.chunk.js",
+    "static/media/vecteezy_fingerprint-identity-sensor-data-protection-system-podium_7164537.jpg": "/static/media/vecteezy_fingerprint-identity-sensor-data-protection-system-podium_7164537.495f021f4b1fc8b9c0de.jpg",
+    "static/media/Movieweb_Logo.png": "/static/media/Movieweb_Logo.ebc233877e20ca352e13.png",
+    "index.html": "/index.html",
+    "main.6965c1b6.css.map": "/static/css/main.6965c1b6.css.map",
+    "main.8d96fe7b.js.map": "/static/js/main.8d96fe7b.js.map",
+    "453.d9a8819d.chunk.js.map": "/static/js/453.d9a8819d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6965c1b6.css",
+    "static/js/main.8d96fe7b.js"
+  ]
+}
