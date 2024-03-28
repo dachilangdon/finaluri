@@ -5,16 +5,19 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
   font-family: "Roboto", sans-serif;
+  background: url(./Components/Assets/vecteezy_fingerprint-identity-sensor-data-protection-system-podium_7164537.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.centered-container {
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url(./Components/Assets/vecteezy_fingerprint-identity-sensor-data-protection-system-podium_7164537.jpg);
-  background-position: center;
-  background-size: cover;
-  
 }
 
 code {
