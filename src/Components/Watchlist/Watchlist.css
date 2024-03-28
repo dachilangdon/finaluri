@@ -15,25 +15,33 @@
   transform: translateY(-2px);
 }
 
-  .movie-card button {
-    background-color: #4caf50;
-    color: white;
-    border: none;
-    padding: 5px 10px;
-    cursor: pointer;
-    transition: background-color 0.3s;
+/* Adjustments for mobile view */
+@media (max-width: 768px) {
+  .delete-all-btn {
+      width: 100%; /* Occupy full width */
   }
-  
-  .movie-card button:hover {
-    background-color: #388e3c;
-  }
+}
+
+.movie-card button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.movie-card button:hover {
+  background-color: #388e3c;
+}
 
 .empty-watchlist-message {
-    text-align: center;
-    color: #757575;
-    font-size: 30px;
-    margin-top: 20px;
-  }
+  text-align: center;
+  color: #757575;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
 .Mywatchlist {
   justify-content: center; 
   align-items: center; 
